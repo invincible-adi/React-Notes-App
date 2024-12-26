@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Agu+Display&display=swap');
+
+body{
+  font-family:"Agu Display", cursiva;
+  overflow-x: hidden;
+  font-weight: 100 !important;
+  font-style: italic !important;
+  background: url(https://marketplace.canva.com/EAE4ByqWxFY/1/0/1600w/canva-soft-brown-peach-brown-minimalist-new-happy-creative-elegant-abstract-aesthetic-background-zoom-virtual-background-MP1cWZ2ZxqU.jpg);
+}
+
+.title{
+  color: #000B58;
+  font-weight: bolder !important;
+  text-align: center;
+  font-style: italic;
+  text-transform: uppercase;
+  font-size: 30px;
+  text-shadow: 2px 2px 10px #000B58;
+  text-decoration:underline;
+}
+
+.txt{
+  color: #000B58 !important;
+  font-weight: bold;
+  text-align: center;
+}
+
+nav{
+  background:#000B58;
+  h2{
+    img{
+      /* width: 100px; */
+      margin-top: -7px;
+      height: 2rem !important;
+    }
+    color:#FFF4B7 !important;
+    font-weight: 600;
+  }
+}
+
+.card{
+  border: 5px solid #000B58;
+}
+
+input{
+  border: 1px solid #000B58 !important;
+}
+
+input::placeholder{
+  color: #000B58 !important;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+textarea{
+  background: transparent !important;
+  border: 1px solid #000B58 !important;
+}
+textarea::placeholder{
+  /* background: white; */
+  font-size: 30px !important;
+  color: #000B58 !important;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.bttn{
+  background-color: #000B58 ;
+  color: #FFF4B7 !important;
+  font-weight: 800 !important;
+  font-size: 20px !important;
+}
+
+p{
+  font-size: 20px;
+  color: #FFF4B7 !important;
+}
