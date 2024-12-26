@@ -11,7 +11,7 @@ A simple, user-friendly Notes App built with React to help you organize your tho
 
 ## Demo
 
-[Live Demo](#) (Replace with your live demo URL)
+[Live Demo](#) (https://adi-react-notes-app.netlify.app)
 
 ## Installation
 
